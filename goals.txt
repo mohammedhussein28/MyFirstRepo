@@ -1,0 +1,7 @@
+My Personal and Academic Goals for Next Year
+
+1. Master Git and GitHub for team projects
+2. Complete a coding internship
+3. Learn [a new language/framework, e.g., Python/Django]
+4. Build a portfolio project
+5. Improve my algorithm skills (LeetCode/CodeWars)
