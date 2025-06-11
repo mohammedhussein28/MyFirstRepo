@@ -1,0 +1,5 @@
+Brief Introduction About Myself
+
+My name is Mohamed Hussein. I am currently a computer science freshman at Cairo University, deeply passionate about technology, data science, and real-world problem solving. I've participated in programs such as Yale Young African Scholars and AFS Changemaker, and I enjoy building projects with social impact.
+
+I also have strong skills in Python and communication, and I volunteer with organizations like UNICEF. I hope to grow my tech skills and contribute to meaningful open-source work.
