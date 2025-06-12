@@ -1,1 +1,2 @@
-"One thing I've learned so far in this GitHub course is how to use branches and make pull requests to manage changes effectively. It helps collaborate better and keeps the project clean and organized." 
+What I have learned from this course:
+I learned how to use Git and GitHub effectively, including branching, committing, and collaborating through pull requests.
